@@ -5,11 +5,6 @@ The project uncovers insights about **city-wise performance, category trends, ye
 
 🔗 [Project Repository](https://github.com/SainiBimal/Supermart-Analysis)
 
----
-
-## 📊 Dashboard & Visuals
-
-![Dashboard](https://github.com/user-attachments/assets/your-dashboard-image.png)
 
 ---
 
