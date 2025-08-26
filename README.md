@@ -93,13 +93,12 @@ The project uncovers insights about **city-wise performance, category trends, ye
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SainiBimal&style=flat-square)
-
----
-
 ## 🙌 Author
 
-**BIMAL KUMAR SAINI**  
-Data Analyst Intern  
-📧 bimalsaini333@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/bimalsaini333/) | [GitHub](https://github.com/SainiBimal)
+**BIMAL KUMAR SAINI**              
+Data Analyst Intern                      
+📧 bimalsaini333@gmail.com              
+🔗 [LinkedIn][https://www.linkedin.com/in/bimalsaini333/] | [GitHub][https://github.com/SainiBimal]
+
+
+![Hits](https://hits.sh/github.com/SainiBimal/MyRepo.svg?style=flat-square)
